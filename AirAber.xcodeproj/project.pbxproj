@@ -25,6 +25,8 @@
 		E5B835802282CFE100ED2D40 /* Flights.json in Resources */ = {isa = PBXBuildFile; fileRef = 7B8FA27C1B724A7400B1E765 /* Flights.json */; };
 		E5B835812282CFEE00ED2D40 /* Flight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B8FA27F1B724A9900B1E765 /* Flight.swift */; };
 		E5B835832282D52B00ED2D40 /* FlightInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B835822282D52B00ED2D40 /* FlightInterfaceController.swift */; };
+		E5B835852282DC5D00ED2D40 /* ScheduleInterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B835842282DC5D00ED2D40 /* ScheduleInterfaceController.swift */; };
+		E5B835872282DD0B00ED2D40 /* FlightRowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5B835862282DD0B00ED2D40 /* FlightRowController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,6 +93,8 @@
 		E5B835732282CD2200ED2D40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E5B835752282CD2200ED2D40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E5B835822282D52B00ED2D40 /* FlightInterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightInterfaceController.swift; sourceTree = "<group>"; };
+		E5B835842282DC5D00ED2D40 /* ScheduleInterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleInterfaceController.swift; sourceTree = "<group>"; };
+		E5B835862282DD0B00ED2D40 /* FlightRowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightRowController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +196,8 @@
 				E5B835732282CD2200ED2D40 /* Assets.xcassets */,
 				E5B835752282CD2200ED2D40 /* Info.plist */,
 				E5B835822282D52B00ED2D40 /* FlightInterfaceController.swift */,
+				E5B835842282DC5D00ED2D40 /* ScheduleInterfaceController.swift */,
+				E5B835862282DD0B00ED2D40 /* FlightRowController.swift */,
 			);
 			path = "Watch Extension";
 			sourceTree = "<group>";
@@ -350,6 +356,8 @@
 			files = (
 				E5B835722282CD2100ED2D40 /* ExtensionDelegate.swift in Sources */,
 				E5B835832282D52B00ED2D40 /* FlightInterfaceController.swift in Sources */,
+				E5B835852282DC5D00ED2D40 /* ScheduleInterfaceController.swift in Sources */,
+				E5B835872282DD0B00ED2D40 /* FlightRowController.swift in Sources */,
 				E5B835812282CFEE00ED2D40 /* Flight.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
